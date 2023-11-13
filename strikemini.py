@@ -1,6 +1,5 @@
 #initialize the game
 import pygame
-from helpers import *
 from playerA import Player1
 from playerB import Player2
 from bomb import Bomb
